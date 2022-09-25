@@ -1,0 +1,4 @@
+# Tilemap 注意事項
+1. TX的Sprite用默認的，Filter Mode改爲Point，不使用默認的窗口配置，用PC模式覆寫，Format使用RGBA32bit。
+2. TX的Pixels Per Unit設置爲每個瓦片的大小，防止出現瓦片之間空白。
+3. 
